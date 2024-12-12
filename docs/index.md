@@ -2,4 +2,4 @@
 title: Startseite
 ---
 
-![Logo](assets/logo-no-background.png)
+# ![Logo](assets/logo-green.png)

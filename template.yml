@@ -1,16 +1,13 @@
 theme:
   name: material
   language: de
-  #logo: assets/logo-grayscale-inverted.png
-  logo: assets/monogram-black-hq.png
-  favicon: assets/favicon.ico
+  logo: assets/icon-grey.png
+  favicon: assets/favicon.png
   palette:
-    - primary: green
-
-
+    - primary: custom
 
 extra:
   generator: false
 
 extra_css:
-  - assets/stylesheets/logo.css
+  - assets/stylesheets/extra.css
