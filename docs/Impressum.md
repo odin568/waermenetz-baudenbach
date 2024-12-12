@@ -11,8 +11,8 @@ Marktplatz 1
 Vorstände: Wolfgang Schmidt, Reinhold Helm, Markus Zellner
 
 ## Kontakt:
-Telefon: 	+49 (0) 9164 XXXXXXXXX  
-E-Mail: 	XXXXXXXXX  
+Telefon: 	+49 (0) 9164 426  
+E-Mail: 	<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;%69&#x6e;%66&#x6f;&#x40;%77a%65rm&#x65;%6e&#x65;%74z&#x2d;b&#x61;u%64&#x65;%6e%62&#x61;c&#x68;.&#x64;e" title="&#x69;&#x6e;&#x66;&#x6f;@&#x77;ae&#x72;m&#x65;netz&#x2d;&#x62;audenbach.&#x64;e">&#x69;&#x6e;&#x66;&#x6f;@&#x77;ae&#x72;m&#x65;netz&#x2d;&#x62;audenbach.&#x64;e</a>  
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
