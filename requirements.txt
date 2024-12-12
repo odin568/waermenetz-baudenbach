@@ -1,3 +1,4 @@
 # Required plugins and themes
 mkdocs
 mkdocs-material
+mkdocs-htmlproofer-plugin
