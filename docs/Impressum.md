@@ -9,6 +9,7 @@ Marktplatz 1
 ## Vertreten durch:
 
 Geschäftsführer
+
 * Wolfgang Schmidt
 * Reinhold Helm
 * Markus Zellner
