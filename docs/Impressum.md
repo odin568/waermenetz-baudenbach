@@ -2,13 +2,16 @@
 
 ## Angaben gemäß § 5 TMG:
 
-Wärmenetz Baudenbach Verwaltung UG (haftungsbeschränkt)
+Wärmenetz Baudenbach Verwaltung UG (haftungsbeschränkt)  
 Marktplatz 1  
 91460 Markt Baudenbach  
 
 ## Vertreten durch:
 
-Geschäftsführer: Wolfgang Schmidt, Reinhold Helm, Markus Zellner
+Geschäftsführer
+* Wolfgang Schmidt
+* Reinhold Helm
+* Markus Zellner
 
 ## Kontakt:
 Telefon: 	+49 (0) 9164 426  
