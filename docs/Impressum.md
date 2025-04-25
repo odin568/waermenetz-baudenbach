@@ -2,7 +2,7 @@
 
 ## Angaben gemäß § 5 TMG:
 
-Wärmenetz Baudenbach Verwaltung UG (haftungsbeschränkt)  
+Wärmenetz Baudenbach Verwaltungs UG (haftungsbeschränkt)  
 Marktplatz 1  
 91460 Markt Baudenbach  
 
