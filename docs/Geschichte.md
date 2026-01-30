@@ -45,3 +45,7 @@ Als Kommanditisten dienen 13 Wärmekunden mit insgesamt 19 Anteilen i.H.v. 100 �
 ## Abschluss Wärmeverträge
 
 Im ersten Quartal 2025 konnten 27 Wärmeverträge unterschrieben werden. Damit konnte mit der Einreichung von Förderanträgen gestartet werden.
+
+## Antragstellung Förderantrag
+
+Am 21. Mai 2025 wurde bei der Bafa (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze gestellt.
