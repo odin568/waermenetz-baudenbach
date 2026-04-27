@@ -18,7 +18,7 @@ Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Hier 
 Parallel wurde von der Gemeinde Baudenbach ein passendes Grundstück gesucht und erworben um es zukünftig an einen Wärmenetzbetreiber zu verpachten.
 
 
-## Gründung der Kapitalgesellschaft
+### Gründung der Kapitalgesellschaft
 
 Am 26. September 2024 wurde die Kapitalgesellschaft 
 
@@ -30,7 +30,7 @@ von folgenden Geschäftsführern gegründet:
 - Reinhold Helm
 - Markus Zellner
 
-## Gründung der Personengesellschaft
+### Gründung der Personengesellschaft
 
 Am 12. Dezember 2024 wurde die Personengesellschaft 
 
@@ -42,10 +42,14 @@ Als Komplementär fungiert die o.g. Kapitalgesellschaft.
 
 Als Kommanditisten dienen 13 Wärmekunden mit insgesamt 19 Anteilen i.H.v. 100 €.
 
-## Abschluss Wärmeverträge
+### Abschluss Wärmeverträge
 
 Im ersten Quartal 2025 konnten 27 Wärmeverträge unterschrieben werden. Damit konnte mit der Einreichung von Förderanträgen gestartet werden.
 
-## Antragstellung Förderantrag
+### Antragstellung Förderantrag
 
 Am 21. Mai 2025 wurde bei der Bafa (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze gestellt.
+
+### Zuwendungsbescheid erhalten
+
+Am 22. April 2026 konnte nach einigen Rückfragen und Umplanungen der Zuwendungsbescheid entegegengenommen werden. 
