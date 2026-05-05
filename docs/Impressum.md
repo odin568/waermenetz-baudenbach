@@ -6,10 +6,10 @@ Wärmenetz Baudenbach UG (haftungsbeschränkt) & Co. KG
 Marktplatz 1  
 91460 Markt Baudenbach
 
-Handelsregister: HRA 12492  
+Handelsregister: <code>HRA 12492</code>  
 Registergericht: Amtsgericht Fürth
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE 454366535
+Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: <code>DE 454366535</code>
 
 ### Vertreten durch die persönlich haftende Gesellschafterin
 
@@ -17,7 +17,7 @@ Wärmenetz Baudenbach Verwaltungs UG (haftungsbeschränkt)
 Marktplatz 1  
 91460 Markt Baudenbach
 
-Handelsregister: HRB 21448  
+Handelsregister: <code>HRB 21448</code>  
 Registergericht: Amtsgericht Fürth
 
 Diese wird vertreten durch die Geschäftsführer:
@@ -28,16 +28,13 @@ Diese wird vertreten durch die Geschäftsführer:
 
 ## Kontakt
 
-E-Mail: <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;%69&#x6e;%66&#x6f;&#x40;%77a%65rm&#x65;%6e&#x65;%74z&#x2d;b&#x61;u%64&#x65;%6e%62&#x61;c&#x68;.&#x64;e" title="&#x69;&#x6e;&#x66;&#x6f;@&#x77;ae&#x72;m&#x65;netz&#x2d;&#x62;audenbach.&#x64;e">&#x69;&#x6e;&#x66;&#x6f;@&#x77;ae&#x72;m&#x65;netz&#x2d;&#x62;audenbach.&#x64;e</a>
+E-Mail: <code>info&#64;waermenetz-baudenbach.de</code>
 
 ---
 
 ## Hinweis gemäß § 36 Verbraucherstreitbeilegungsgesetz (VSBG)
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
-https://ec.europa.eu/consumers/odr/
 
 ---
 
