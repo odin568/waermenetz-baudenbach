@@ -1,7 +1,7 @@
 theme:
   name: material
   language: de
-  logo: assets/icon-grey.png
+  logo: assets/Wärmenetz_Flamme.png
   favicon: assets/favicon.png
   palette:
     - primary: custom

@@ -1,5 +1,1 @@
----
-title: Startseite
----
-
-# ![Logo](assets/logo-green.png)
+![Logo](assets/Wärmenetz_LogoTextTransparent.png)
