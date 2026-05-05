@@ -1,15 +1,13 @@
-name: ci 
-
-env:
-  GIT_DEPTH: "0"
-  ENABLE_LINK_CHECK: 'True'
+name: ci
 
 on:
   push:
     branches:
       - main
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -18,17 +16,13 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v5
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
       - run: pip install -r requirements.txt
-      - run: pip list | grep mkdocs
-      - run: mkdocs gh-deploy --force --strict
-      - run: mkdocs build --strict
+      - run: zensical build --clean
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
       - name: 📂 Publish to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
