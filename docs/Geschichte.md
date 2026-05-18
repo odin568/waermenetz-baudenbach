@@ -1,5 +1,7 @@
 # Geschichte
 
+## Die Idee
+
 Die Idee und den Anschub ein kommunales Wärmenetz in Baudenbach kam von der Gemeinde Baudenbach (vertreten durch Bürgermeister Wolfgang Schmidt). 
 
 Da die Gemeinde selbst mehrere kommunale Gebäude betreibt, in denen teilweise noch Öl oder in die Jahre gekommene Hackschnitzelheizungen betrieben werden, entstand zunächst die Idee für diese eine gemeinsame Heizungsanlage von Seiten der Gemeinde zu erschaffen.
@@ -48,8 +50,12 @@ Im ersten Quartal 2025 konnten 27 Wärmeverträge unterschrieben werden. Damit k
 
 ### Antragstellung Förderantrag
 
-Am 21. Mai 2025 wurde bei der Bafa (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze gestellt.
+Am 21. Mai 2025 wurde bei der BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze gestellt.
 
 ### Zuwendungsbescheid erhalten
 
-Am 22. April 2026 konnte nach einigen Rückfragen und Umplanungen der Zuwendungsbescheid entegegengenommen werden. 
+Am 22. April 2026 konnte nach einigen Rückfragen und Umplanungen der Zuwendungsbescheid entgegengenommen werden. 
+
+### Startschuss
+
+Mit der Gesellschafterversammlung am 12.05.2026 wurde der Startschuss für die Bauphase gegeben.
