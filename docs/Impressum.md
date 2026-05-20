@@ -22,7 +22,7 @@ Registergericht: Amtsgericht Fürth
 
 Diese wird vertreten durch die Geschäftsführer:
 
-* Wolfgang Schmidt  
+* Johannes Hudezeck  
 * Reinhold Helm  
 * Markus Zellner
 

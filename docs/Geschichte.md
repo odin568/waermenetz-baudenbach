@@ -1,6 +1,6 @@
 # Geschichte
 
-## Die Idee
+## Die Idee (2024)
 
 Die Idee und den Anschub ein kommunales Wärmenetz in Baudenbach kam von der Gemeinde Baudenbach (vertreten durch Bürgermeister Wolfgang Schmidt). 
 
@@ -13,7 +13,7 @@ Aus rechtlicher Sicht und praktisch kann und möchte die Gemeinde jedoch nicht a
 Daraus entstand die Idee, eine Gesellschaft zu gründen, in der alle Wärmeabnehmer zusammen möglichst kostengünstig und ohne Gewinnabsichten gemeinsam ein Wärmenetz errichten und betreiben.
 
 
-## Vorbereitungen
+## Vorbereitungen (2024-2026)
 
 Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Hier ging es vorrangig darum Interesse an dem Anschluss an ein Wärmenetz abzuklären.
 
@@ -59,3 +59,15 @@ Am 22. April 2026 konnte nach einigen Rückfragen und Umplanungen der Zuwendungs
 ### Startschuss
 
 Mit der Gesellschafterversammlung am 12.05.2026 wurde der Startschuss für die Bauphase gegeben.
+
+### Geschäftsführerwechsel
+
+Wolfgang Schmidt hat als erster Bürgermeister das Projekt initiiert und die Planungen von der Idee bis zur Umsetzung getrieben.
+
+Seit Mai 2026 ist Johannes Hudezeck erster Bürgermeister von Baudenbach und übernimmt daher das Amt des Geschäftsführers von Wolfang Schmidt.
+
+Die anderen Geschäftsführer (Reinhold Helm und Markus Zellner) bleiben unverändert.
+
+## Umsetzung (2026)
+
+Mitte Mai 2026 ging es nach langer Wartezeit endlich los! Die Bagger rollen.
