@@ -6,5 +6,7 @@ site_dir: 'public'
 site_name: 'Wärmenetz Baudenbach'
 site_url: 'https://www.waermenetz-baudenbach.de'
 
-plugins:
-  - privacy
+markdown_extensions:
+  - zensical.extensions.glightbox:
+      auto: true
+  - attr_list
