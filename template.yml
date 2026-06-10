@@ -6,6 +6,9 @@ theme:
   fonts: false
   palette:
     - primary: custom
+  features:
+    - navigation.instant
+    - navigation.tracking
 
 extra:
   generator: false

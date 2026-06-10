@@ -10,3 +10,11 @@ markdown_extensions:
   - zensical.extensions.glightbox:
       auto: true
   - attr_list
+
+nav:
+  - Startseite: index.md
+  - Geschichte:
+      - Vorbereitung: Geschichte/Vorbereitung.md
+      - Bauphase: Geschichte/Bauphase.md
+      - Betrieb: Geschichte/Betrieb.md
+  - Impressum: Impressum.md
