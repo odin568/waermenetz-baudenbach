@@ -58,9 +58,11 @@ Im ersten Quartal 2025 konnten 27 Wärmeverträge abgeschlossen werden. Damit wa
 
 Am 21. Mai 2025 wurde bei der BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze eingereicht.
 
-### Zuwendungsbescheid erhalten
+### Zuwendungsbescheid
 
-Am 22. April 2026 konnte nach einigen Rückfragen und Anpassungen der Planung der Zuwendungsbescheid entgegengenommen werden.
+Nach Einreichung des Antrags verlief das Verfahren zunächst über einen längeren Zeitraum ohne weiteren Zwischenstand. 
+
+Erst in den letzten Monaten kam es zu Rückfragen sowie notwendigen Anpassungen der Planung aufgrund zwischenzeitlich geänderter Förderrichtlinien, bevor am 22. April 2026 der Zuwendungsbescheid erteilt wurde.
 
 ### Startschuss
 
