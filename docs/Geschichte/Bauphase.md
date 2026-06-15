@@ -14,7 +14,7 @@ Es folgen erste Erdarbeiten und Kanalanschluss (Wasser, Abwasser (Trennsystem), 
 ![Image](assets/04_kanalanschluss2.jpg){ width="300" loading=lazy }
 
 
-Im Anschluss wurden die Erdarbeiten abgeschlossen, geschottert und die Fundamente gesetzt:
+Im Anschluss wurden die Erdarbeiten abgeschlossen, geschottert und die Fundamente vorbereitet:
 
 ![Image](assets/06_baugrund.jpg){ width="300" loading=lazy }
 ![Image](assets/07_fundament.jpg){ width="300" loading=lazy }
