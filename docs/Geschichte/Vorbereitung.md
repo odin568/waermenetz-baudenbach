@@ -4,31 +4,29 @@ Von der Idee zur Umsetzung.
 
 ## Die Idee (2024)
 
-Die Idee und den Anschub ein kommunales Wärmenetz in Baudenbach kam von der Gemeinde Baudenbach (vertreten durch Bürgermeister Wolfgang Schmidt). 
+Die Idee für ein kommunales Wärmenetz in Baudenbach entstand 2024 auf Initiative der Gemeinde Baudenbach unter dem damaligen Bürgermeister Wolfgang Schmidt.
 
-Da die Gemeinde selbst mehrere kommunale Gebäude betreibt, in denen teilweise noch Öl oder in die Jahre gekommene Hackschnitzelheizungen betrieben werden, entstand zunächst die Idee für diese eine gemeinsame Heizungsanlage von Seiten der Gemeinde zu erschaffen.
+Da die Gemeinde mehrere kommunale Gebäude betreibt, in denen teilweise noch Ölheizungen oder in die Jahre gekommene Hackschnitzelheizungen genutzt werden, entstand zunächst der Gedanke, diese über eine gemeinsame Heizungsanlage zu versorgen.
 
-Natürlich ergab sich dadurch auch ein Interesse an Anliegern, sich an ein Wärmenetz anzuschließen.
+Daraus ergab sich auch das Interesse, Anliegern die Möglichkeit zu bieten, sich an ein Wärmenetz anzuschließen.
 
-Aus rechtlicher Sicht und praktisch kann und möchte die Gemeinde jedoch nicht als Wärmenetzbetreiber das Netz aufbauen und betreiben.
+Aus rechtlicher und praktischer Sicht kann und möchte die Gemeinde jedoch nicht selbst als Betreiber eines Wärmenetzes auftreten.
 
-Daraus entstand die Idee, eine Gesellschaft zu gründen, in der alle Wärmeabnehmer zusammen möglichst kostengünstig und ohne Gewinnabsichten gemeinsam ein Wärmenetz errichten und betreiben.
+Daraus entstand die Idee, eine Gesellschaft zu gründen, in der alle Wärmeabnehmer gemeinsam ein Wärmenetz errichten und betreiben – möglichst kostengünstig und ohne Gewinnerzielungsabsicht.
 
+## Vorbereitungen (2024–2026)
 
-## Vorbereitungen (2024-2026)
+Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Ziel war es insbesondere, das Interesse an einem Anschluss an das Wärmenetz zu ermitteln.
 
-Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Hier ging es vorrangig darum Interesse an dem Anschluss an ein Wärmenetz abzuklären.
-
-Parallel wurde von der Gemeinde Baudenbach ein passendes Grundstück gesucht und erworben um es zukünftig an einen Wärmenetzbetreiber zu verpachten.
-
+Parallel dazu suchte und erwarb die Gemeinde Baudenbach ein geeignetes Grundstück, das künftig an den Wärmenetzbetreiber verpachtet werden soll.
 
 ### Gründung der Kapitalgesellschaft
 
-Am 26. September 2024 wurde die Kapitalgesellschaft 
+Am 26. September 2024 wurde die Kapitalgesellschaft
 
-`Wärmenetz Baudenbach Verwaltungs UG (haftungsbeschränkt)` 
+`Wärmenetz Baudenbach Verwaltungs UG (haftungsbeschränkt)`
 
-von folgenden Geschäftsführern gegründet:
+mit folgenden Geschäftsführern gegründet:
 
 - Wolfgang Schmidt
 - Reinhold Helm
@@ -36,40 +34,42 @@ von folgenden Geschäftsführern gegründet:
 
 ### Gründung der Personengesellschaft
 
-Am 12. Dezember 2024 wurde die Personengesellschaft 
+Am 12. Dezember 2024 wurde die Personengesellschaft
 
-`Wärmenetz Baudenbach UG (haftungsbeschränkt) & Co. KG` 
+`Wärmenetz Baudenbach UG (haftungsbeschränkt) & Co. KG`
 
 gegründet.
 
-Als Komplementär fungiert die o.g. Kapitalgesellschaft. 
+Als Komplementärin fungiert die zuvor gegründete Verwaltungs UG.
 
-Als Kommanditisten dienen 13 Wärmekunden mit insgesamt 19 Anteilen i.H.v. 100 €.
+Als Kommanditisten beteiligen sich 13 Anschlussnehmer mit jeweils einem Anteil in Höhe von 100 € sowie die Gemeinde Baudenbach mit sechs Anteilen.
 
-### Abschluss Wärmeverträge
+Damit ergeben sich 14 Kommanditisten mit insgesamt 19 Anteilen.
 
-Im ersten Quartal 2025 konnten 27 Wärmeverträge unterschrieben werden. Damit konnte mit der Einreichung von Förderanträgen gestartet werden.
+### Abschluss der Wärmeverträge
 
-### Antragstellung Förderantrag
+Im ersten Quartal 2025 konnten 27 Wärmeverträge abgeschlossen werden. Damit waren die Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
 
-Am 21. Mai 2025 wurde bei der BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze gestellt.
+### Antragstellung
+
+Am 21. Mai 2025 wurde bei der BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze eingereicht.
 
 ### Zuwendungsbescheid erhalten
 
-Am 22. April 2026 konnte nach einigen Rückfragen und Umplanungen der Zuwendungsbescheid entgegengenommen werden. 
+Am 22. April 2026 konnte nach einigen Rückfragen und Anpassungen der Planung der Zuwendungsbescheid entgegengenommen werden.
 
 ### Startschuss
 
-Mit der Gesellschafterversammlung am 12.05.2026 wurde der Startschuss für die Bauphase gegeben.
+Mit der Gesellschafterversammlung am 12. Mai 2026 wurde der Startschuss für die Bauphase gegeben.
 
 ### Geschäftsführerwechsel
 
-Wolfgang Schmidt hat als erster Bürgermeister das Projekt initiiert und die Planungen von der Idee bis zur Umsetzung getrieben.
+Wolfgang Schmidt hat das Projekt als Erster Bürgermeister initiiert und die Planungen von der ersten Idee bis zur Umsetzungsreife maßgeblich vorangetrieben.
 
-Seit Mai 2026 ist Johannes Hudezeck erster Bürgermeister von Baudenbach und übernimmt daher das Amt des Geschäftsführers von Wolfang Schmidt.
+Seit Mai 2026 ist Johannes Hudezeck Erster Bürgermeister der Gemeinde Baudenbach und übernimmt daher die Geschäftsführertätigkeit von Wolfgang Schmidt.
 
-Die anderen Geschäftsführer (Reinhold Helm und Markus Zellner) bleiben unverändert.
+Die weiteren Geschäftsführer, Reinhold Helm und Markus Zellner, bleiben unverändert im Amt.
 
 ---
 
-[Hier](Bauphase.md) geht's weiter mit der Bauphase.
+[Hier](Bauphase.md) geht es weiter zur Bauphase.
