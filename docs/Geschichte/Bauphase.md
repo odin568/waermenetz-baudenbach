@@ -4,7 +4,7 @@ Mitte Mai 2026 ging es nach langer Wartezeit endlich los! Die Bagger rollen.
 
 Alles beginnt auf einer grünen Wiese.
 
-![Image](assets/01_grueneWiese.jpg){ width="300" loading=lazy }
+![Image](assets/01_grueneWiese.jpg){ width="605" loading=lazy }
 
 Es folgen erste Erdarbeiten und Kanalanschluss (Wasser, Abwasser (Trennsystem), Telekom)
 
