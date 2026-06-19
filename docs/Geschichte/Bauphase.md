@@ -1,24 +1,32 @@
 # Bauphase
 
-Ende Mai 2026 ging es nach langer Wartezeit endlich los! Die Bagger rollen.
+## Baustart – Mai 2026
 
-Alles beginnt auf einer grünen Wiese.
+Nach langer Wartezeit war es im Mai 2026 endlich so weit: Die Bauarbeiten begannen und die ersten Bagger rückten an.
+
+Alles startet auf einer grünen Wiese:
 
 ![Image](assets/01_grueneWiese.jpg){ width="605" loading=lazy }
 
-Es folgen erste Erdarbeiten und Kanalanschluss (Wasser, Abwasser (Trennsystem), Telekom)
+## Erdarbeiten und Erschließung
+
+Zu Beginn wurden die notwendigen Erdarbeiten durchgeführt und die Anschlüsse für die Versorgungsleitungen hergestellt. Dazu gehören Wasser, Abwasser (Trennsystem), Strom, sowie die Telekommunikationsanbindung.
 
 ![Image](assets/02_erdarbeiten.jpg){ width="300" loading=lazy }
 ![Image](assets/05_kanalanschluss3.jpg){ width="300" loading=lazy }
 ![Image](assets/03_kanalanschluss1.jpg){ width="300" loading=lazy }
 ![Image](assets/04_kanalanschluss2.jpg){ width="300" loading=lazy }
 
-Im Anschluss wurden die Erdarbeiten abgeschlossen, geschottert und die Fundamente vorbereitet:
+## Vorbereitung der Fundamente
+
+Nach Abschluss der Erdarbeiten wurde das Gelände geschottert und für die Fundamentarbeiten vorbereitet.
 
 ![Image](assets/06_baugrund.jpg){ width="300" loading=lazy }
 ![Image](assets/07_fundament.jpg){ width="300" loading=lazy }
 
-So konnte Mitte Juni bereits die Bodenplatte des Heizhauses erstellt werden:
+## Die ersten Betonarbeiten
+
+Bereits Mitte Juni konnte die Bodenplatte für das Heizhaus betoniert werden.
 
 ![Image](assets/08_bodenplatte1.jpg){ width="300" loading=lazy }
 ![Image](assets/09_bodenplatte2.jpg){ width="300" loading=lazy }
