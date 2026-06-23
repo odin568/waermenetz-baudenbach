@@ -26,7 +26,7 @@ Nach Abschluss der Erdarbeiten wurde das Gelände geschottert und für die Funda
 
 ## Die ersten Betonarbeiten
 
-Bereits Mitte Juni konnte die Bodenplatte für das Heizhaus betoniert werden.
+Nachdem die erforderlichen Leitungen verlegt und der Zugangsschacht vorbereitet waren, wurde Mitte Juni die Bodenplatte für das Heizhaus betoniert.
 
 ![Image](assets/08_bodenplatte1.jpg){ width="300" loading=lazy }
 ![Image](assets/09_bodenplatte2.jpg){ width="300" loading=lazy }
