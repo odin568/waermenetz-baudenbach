@@ -8,6 +8,8 @@ The Homepage is generated automatically generated on every change from the [docs
 
 ## How it works
 
+> Note: Switched to zensical as successor of mkdocs!
+
 This approach uses [MkDocs](https://mkdocs.org) to generate static html files out of markdown files.  
 We use the template [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for visualization.
 
@@ -21,8 +23,8 @@ All template related configurations are done inside the [template.yml](template.
 * Install Python
 * Clone this repository
 * Run `pip install --upgrade -r requirements.txt` (might need administrator rights)
-* Run `mkdocs serve`
-* Access [http://localhost:8000](http://localhost:8000) in browser
+* Run `zensical serve`
+* Access [http://localhost:8000/](http://localhost:8000/) in browser
 * Any change will reload the browser automatically
 
 ## How to update local installation
