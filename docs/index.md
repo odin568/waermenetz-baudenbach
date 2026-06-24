@@ -1,5 +1,7 @@
 ---
-title: Startseite
+title: Baudenbach denkt heute schon an morgen!
+hide:
+  - toc
 ---
 
-![Logo](assets/Wärmenetz_LogoTextTransparent.png){ width="600" loading=lazy .off-glb }
+![Bauplane](assets/bauplane_reduziert.png){ loading=lazy .off-glb }

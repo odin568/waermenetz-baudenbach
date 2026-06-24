@@ -1,5 +1,7 @@
 # Impressum
 
+![Logo](assets/Wärmenetz_LogoTextTransparent.png){ width="400" loading=lazy .off-glb }
+
 ## Angaben gemäß § 5 TMG
 
 Wärmenetz Baudenbach UG (haftungsbeschränkt) & Co. KG  

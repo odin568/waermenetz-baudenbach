@@ -1,5 +1,7 @@
 # Bauphase
 
+![Bauplane](../assets/bauplane_komplett.png){ width="605" loading=lazy }
+
 ## Baustart – Mai 2026
 
 Nach langer Wartezeit war es im Mai 2026 endlich so weit: Die Bauarbeiten begannen und die ersten Bagger rückten an.
