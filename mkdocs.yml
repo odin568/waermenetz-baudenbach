@@ -20,5 +20,7 @@ nav:
   - Geschichte:
       - Vorbereitung: Geschichte/Vorbereitung.md
       - Bauphase: Geschichte/Bauphase.md
-      - Betrieb: Geschichte/Betrieb.md
+      - Inbetriebnahme: Geschichte/Inbetriebnahme.md
+  - Betrieb:
+      - Kennzahlen: Betrieb/Kennzahlen.md
   - Impressum: Impressum.md
