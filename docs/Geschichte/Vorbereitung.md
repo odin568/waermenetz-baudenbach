@@ -34,7 +34,7 @@ Zu Geschäftsführern wurden bestellt:
 - Reinhold Helm
 - Markus Zellner
 
-Die Geschäftsanteile der Verwaltungs-UG werden vollständig von der später gegründeten Gesellschaft gehalten.
+Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Gesellschaft gehalten.
 
 ### Gründung der Personengesellschaft
 
