@@ -1,12 +1,12 @@
 # Bauphase
 
-![Bauplane](../assets/bauplane_komplett.png){ width="605" loading=lazy }
+![Bauzaun](../assets/bauplane_bauzaun.png){ width="605" loading=lazy }
 
 ## Baustart
 
 Nach langer Wartezeit war es im Mai 2026 endlich so weit: Die Bauarbeiten begannen und die ersten Bagger rückten an.
 
-Alles begann auf einer grünen Wiese.
+Alles begann zunächst auf der grünen Wiese.
 
 ![Image](assets/01_grueneWiese.jpg){ width="605" loading=lazy }
 
