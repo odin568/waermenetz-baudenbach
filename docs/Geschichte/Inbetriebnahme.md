@@ -2,4 +2,4 @@
 
 !!! note "Hinweis"
 
-    Bis Ende 2026 sollen alle 27 Anschlüsse an das Wärmenetz angebunden und in Betrieb sein.
+    Für 2026 ist die Inbetriebnahme des Wärmenetzes vorgesehen; bis Ende 2026 sollen möglichst alle 27 Anschlüsse hergestellt werden.
