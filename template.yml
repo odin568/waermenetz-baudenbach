@@ -3,7 +3,6 @@ theme:
   language: de
   logo: assets/Wärmenetz_Flamme.png
   favicon: assets/favicon.png
-  fonts: false
   palette:
     - primary: custom
   features:
