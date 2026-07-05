@@ -6,7 +6,7 @@
 
 The Homepage is generated automatically generated on every change from the [docs](/docs) folder.
 
-## How it works
+## How it works 
 
 > Note: Switched to Zensical as successor of mkdocs!
 
