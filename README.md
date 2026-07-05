@@ -8,7 +8,7 @@ The Homepage is generated automatically generated on every change from the [docs
 
 ## How it works
 
-> Note: Switched to zensical as successor of mkdocs!
+> Note: Switched to Zensical as successor of mkdocs!
 
 This approach uses [MkDocs](https://mkdocs.org) to generate static html files out of markdown files.  
 We use the template [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for visualization.
