@@ -42,3 +42,8 @@ Auf der fertiggestellten Bodenplatte begann noch im Juni der Rohbau des Heizhaus
 
 ![Image10](assets/11_heizhaus_beton_2.jpg){ width="300" loading=lazy }
 ![Image11](assets/10_heizhaus_beton_1.jpg){ width="300" loading=lazy }
+
+
+---
+
+> Diese Seite wird fortlaufend aktualisiert.
