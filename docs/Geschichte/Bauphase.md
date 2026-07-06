@@ -40,5 +40,5 @@ Nachdem die erforderlichen Leitungen verlegt und der Zugangsschacht vorbereitet 
 
 Auf der fertiggestellten Bodenplatte begann noch im Juni der Rohbau des Heizhauses. Zunächst wurden die Wände geschalt und betoniert.
 
-![Image10](assets/10_heizhaus_beton_1.jpg){ width="300" loading=lazy }
-![Image11](assets/11_heizhaus_beton_2.jpg){ width="300" loading=lazy }
+![Image10](assets/11_heizhaus_beton_2.jpg){ width="300" loading=lazy }
+![Image11](assets/10_heizhaus_beton_1.jpg){ width="300" loading=lazy }
