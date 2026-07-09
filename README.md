@@ -1,4 +1,3 @@
-````markdown
 # Wärmenetz Baudenbach
 
 [![Built with Zensical](https://img.shields.io/badge/Built_with-Zensical-526CFE?style=for-the-badge)](https://zensical.io)
@@ -25,7 +24,7 @@ Project-specific configuration is managed through the Zensical configuration fil
 
    ```bash
    pip install --upgrade -r requirements.txt
-````
+   ```
 
 4. Start the local development server:
 
