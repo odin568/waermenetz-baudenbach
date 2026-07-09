@@ -1,32 +1,50 @@
+````markdown
 # Wärmenetz Baudenbach
 
-[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+[![Built with Zensical](https://img.shields.io/badge/Built_with-Zensical-526CFE?style=for-the-badge)](https://zensical.io)
 
-** [LINK](https://www.waermenetz-baudenbach.de) **
+**Website:** https://www.waermenetz-baudenbach.de
 
-The Homepage is generated automatically generated on every change from the [docs](/docs) folder.
+The website is automatically generated and deployed whenever changes are made to the [`docs`](./docs) directory.
 
-## How it works 
+## How it works
 
-> Note: Switched to Zensical as successor of mkdocs!
+> **Note:** This project uses **Zensical**, the successor to MkDocs.
 
-This approach uses [MkDocs](https://mkdocs.org) to generate static html files out of markdown files.  
-We use the template [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for visualization.
+Zensical generates a static website from the Markdown files located in the [`docs`](./docs) directory.
 
-Changes to documentation on the main branch in the [/docs](/docs) folder will generate and deploy the documentation automatically.
+Every change pushed to the `main` branch automatically triggers the build and deployment process, ensuring the website is always up to date.
 
-Configuration is done inside [mkdocs.yml](mkdocs.yml) file.  
-All template related configurations are done inside the [template.yml](template.yml) file.
+Project-specific configuration is managed through the Zensical configuration files included in this repository.
 
-## How to develop locally
+## Local development
 
-* Install Python
-* Clone this repository
-* Run `pip install --upgrade -r requirements.txt` (might need administrator rights)
-* Run `zensical serve`
-* Access [http://localhost:8000/](http://localhost:8000/) in browser
-* Any change will reload the browser automatically
+1. Install Python.
+2. Clone this repository.
+3. Install the project dependencies:
 
-## How to update local installation
+   ```bash
+   pip install --upgrade -r requirements.txt
+````
 
-* Run `pip install --upgrade -r requirements.txt` again (might need administrator rights)
+4. Start the local development server:
+
+   ```bash
+   zensical serve
+   ```
+
+5. Open your browser and navigate to:
+
+   ```
+   http://localhost:8000/
+   ```
+
+6. Any changes to the documentation are automatically detected, and the browser reloads instantly.
+
+## Updating your local installation
+
+Whenever the project dependencies change, update your local environment by running:
+
+```bash
+pip install --upgrade -r requirements.txt
+```
