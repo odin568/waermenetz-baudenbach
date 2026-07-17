@@ -47,7 +47,8 @@ Auch im Juli ging es nahtlos weiter - das zukünftige Heizhaus ist schon gut zu 
 
 ![Image12](assets/12_heizhaus_beton_3.jpg){ width="300" loading=lazy }
 ![Image13](assets/13_heizhaus_beton_4.jpg){ width="300" loading=lazy }
-
+![Image14](assets/14_heizhaus_beton_5.jpg){ width="300" loading=lazy }
+![Image15](assets/15_heizhaus_beton_6.jpg){ width="300" loading=lazy }
 
 ---
 
