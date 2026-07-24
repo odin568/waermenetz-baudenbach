@@ -20,6 +20,8 @@ Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Ziel 
 
 Parallel dazu erwarb die Gemeinde Baudenbach ein geeignetes Grundstück, das künftig an den Wärmenetzbetreiber verpachtet werden soll.
 
+In rechtlichen und steuerlichen Fragen werden wir von der BERATA Steuerkanzlei aus Bad Windsheim beraten und unterstützt.
+
 ### Gründung der Kapitalgesellschaft
 
 Am 26. September 2024 wurde die Kapitalgesellschaft
@@ -36,7 +38,7 @@ Zu Geschäftsführern wurden bestellt:
 
 Alle drei Geschäftsführer sind gleichberechtigt und einzelvertretungsberechtigt.
 
-Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Gesellschaft gehalten.
+Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Personengesellschaft gehalten.
 
 ### Gründung der Personengesellschaft
 
@@ -58,12 +60,12 @@ Gemäß der Satzung wurde im Dezember ein Beirat bestellt. Dem Beirat gehören a
 
 * Norbert Bärthlein
 * Albert Kirschner
-* Matthias Körner
 * Tobi Köcklar
+* Matthias Körner
 
 ### Abschluss der Wärmeverträge
 
-Im ersten Quartal 2025 konnten 27 Wärmeverträge abgeschlossen werden. Damit waren die Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
+Im ersten Quartal 2025 konnten 27 Wärmeverträge für 32 Gebäude abgeschlossen werden. Damit waren die Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
 
 ### Planung
 
