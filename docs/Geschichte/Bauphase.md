@@ -63,6 +63,9 @@ Die Hauptleitung besteht aus einem vorisolierten Doppelrohr mit einem Außendurc
 ![Image20](assets/20_spuelbohrung_03.jpg){ width="300" loading=lazy }
 ![Image21](assets/21_spuelbohrung_04.jpg){ width="300" loading=lazy }
 
+Im weiteren Verlauf konnten bis Ende Juli vier weitere Spülbohrungen erfolgreich abgeschlossen und die entsprechenden Rohrleitungen eingezogen werden.
+
+Anschließend werden die einzelnen Leitungsabschnitte entsprechend dem Trassenplan nach und nach miteinander verbunden.
 
 ---
 
