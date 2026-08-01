@@ -26,9 +26,9 @@ Nach Abschluss der Erdarbeiten wurde das Gelände geschottert und für die Funda
 ![Image6](assets/06_baugrund.jpg){ width="300" loading=lazy }
 ![Image7](assets/07_fundament.jpg){ width="300" loading=lazy }
 
-## Bau des Heizhauses
+## Bau der Heizzentrale
 
-### Bodenplatte
+### Bodenplatte Heizhaus
 
 Nachdem die erforderlichen Leitungen verlegt und der Zugangsschacht vorbereitet worden waren, wurde Mitte Juni die Bodenplatte für das Heizhaus betoniert.
 
@@ -43,12 +43,21 @@ Auf der fertiggestellten Bodenplatte begann noch im Juni der Rohbau des Heizhaus
 ![Image10](assets/11_heizhaus_beton_2.jpg){ width="300" loading=lazy }
 ![Image11](assets/10_heizhaus_beton_1.jpg){ width="300" loading=lazy }
 
-Auch im Juli ging es nahtlos weiter - das zukünftige Heizhaus ist schon gut zu erkennen:
+Auch im Juli gingen die Bauarbeiten nahtlos weiter. Das zukünftige Heizhaus nahm zunehmend Gestalt an und war bereits deutlich zu erkennen:
 
 ![Image12](assets/12_heizhaus_beton_3.jpg){ width="300" loading=lazy }
 ![Image13](assets/13_heizhaus_beton_4.jpg){ width="300" loading=lazy }
 ![Image14](assets/14_heizhaus_beton_5.jpg){ width="300" loading=lazy }
 ![Image15](assets/15_heizhaus_beton_6.jpg){ width="300" loading=lazy }
+
+Bereits Ende Juli konnten die Betonarbeiten am Heizhaus erfolgreich abgeschlossen werden.
+
+### Rohbau Lagerhalle
+
+Direkt im Anschluss ging es mit dem nächsten Bauabschnitt weiter: Ende Juli begannen die Arbeiten an der an das Heizhaus angeschlossenen Lagerhalle.
+
+![Image22](assets/22_halle_beton_1.jpg){ width="300" loading=lazy }
+![Image23](assets/23_halle_beton_2.jpg){ width="300" loading=lazy }
 
 ## Leitungsbau
 
