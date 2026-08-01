@@ -9,3 +9,5 @@
 An der Kreuzung Waldstraße / Gartenstraße wurde frühzeitig ein möglicher Erweiterungspunkt berücksichtigt.
 
 Ende Juli wurden die Anwohnerinnen und Anwohner der Waldstraße sowie der nördlich anschließenden Straßen bis zur Roßbacher Straße informiert und ein entsprechender Erfassungsbogen verteilt.
+
+Dieser wird im Anschluss ausgewertet und die nächsten Schritte abgestimmt.
