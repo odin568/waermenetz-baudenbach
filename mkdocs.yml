@@ -5,6 +5,7 @@ site_description: 'Homepage der Wärmenetz Baudenbach UG'
 site_dir: 'public'
 site_name: 'Wärmenetz Baudenbach'
 site_url: 'https://www.waermenetz-baudenbach.de'
+strict: true
 
 markdown_extensions:
   - zensical.extensions.glightbox:
