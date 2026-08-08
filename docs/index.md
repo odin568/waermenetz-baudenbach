@@ -12,4 +12,4 @@ hide:
 
 ## Zeitungsbericht 08.08.2026
 
-![Zeitungsbericht](assets/zeitungsbericht.jpg){ loading=lazy width=400px }
+![Zeitungsbericht](assets/zeitungsbericht.png){ loading=lazy width=400px }
