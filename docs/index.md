@@ -9,3 +9,7 @@ hide:
 ## Baudenbach denkt heute schon an morgen!
 
 ![Bauplane](assets/bauplane_reduziert.png){ loading=lazy .off-glb }
+
+## Zeitungsbericht 08.08.2026
+
+![Zeitungsbericht](assets/zeitungsbericht.jpg){ loading=lazy width=400px }
