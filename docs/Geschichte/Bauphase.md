@@ -59,6 +59,11 @@ Direkt im Anschluss ging es mit dem nächsten Bauabschnitt weiter: Ende Juli beg
 ![Image22](assets/22_halle_beton_1.jpg){ width="300" loading=lazy }
 ![Image23](assets/23_halle_beton_2.jpg){ width="300" loading=lazy }
 
+Mitte August konnte auch hier bereits ein Großteil der Betonarbeiten abgeschlossen werden:
+
+![Image24](assets/24_halle_beton_3.jpg){ width="300" loading=lazy }
+![Image25](assets/25_halle_beton_4.jpg){ width="300" loading=lazy }
+
 ## Leitungsbau
 
 ### Spülbohrungen
@@ -75,6 +80,8 @@ Die Hauptleitung besteht aus einem vorisolierten Doppelrohr mit einem Außendurc
 Im weiteren Verlauf konnten bis Ende Juli vier weitere Spülbohrungen erfolgreich abgeschlossen und die entsprechenden Rohrleitungen eingezogen werden.
 
 Anschließend werden die einzelnen Leitungsabschnitte entsprechend dem Trassenplan nach und nach miteinander verbunden.
+
+Mitte August konnten alle 14 geplanten Spülbohrungen erfolgreich abgeschlossen werden.
 
 ---
 
