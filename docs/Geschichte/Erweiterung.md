@@ -12,4 +12,4 @@ Dieser wird im Anschluss ausgewertet und die nächsten Schritte abgestimmt.
 
 !!! info "Informationsveranstaltung"
     
-    Wir bieten am 23.09.2026 eine Informationsveranstaltung für alle interessierten Bürger von Baudenbach an.
+    Wir bieten am 23.09.2026 um 18:30 Uhr in der Gemeindehalle Baudenbach eine Informationsveranstaltung für alle interessierten Bürger von Baudenbach an.
