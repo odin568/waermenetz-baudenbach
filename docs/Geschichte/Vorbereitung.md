@@ -38,7 +38,7 @@ Zu Geschäftsführern wurden bestellt:
 
 Alle drei Geschäftsführer sind gleichberechtigt und einzelvertretungsberechtigt.
 
-Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Personengesellschaft gehalten.
+Die Stammeinlage der Verwaltungs UG wird vollständig von der später gegründeten Personengesellschaft gehalten.
 
 ### Gründung der Personengesellschaft
 
@@ -54,9 +54,11 @@ Als Kommanditisten beteiligen sich 13 Anschlussnehmer mit jeweils einem Kommandi
 
 Damit ergeben sich 14 Kommanditisten mit insgesamt 19 Anteilen.
 
+Die weiteren Anschlussnehmer sind als Wärmekunden an das Wärmenetz angeschlossen und werden zu den gleichen Konditionen mit Wärme versorgt.
+
 ### Bestellung des Beirats
 
-Gemäß der Satzung wurde im Dezember ein Beirat bestellt. Dem Beirat gehören an:
+Gemäß der Satzung wurde im Dezember 2024 ein Beirat bestellt. Dem Beirat gehören an:
 
 * Norbert Bärthlein
 * Albert Kirschner
@@ -65,7 +67,11 @@ Gemäß der Satzung wurde im Dezember ein Beirat bestellt. Dem Beirat gehören a
 
 ### Abschluss der Wärmeverträge
 
-Im ersten Quartal 2025 konnten 27 Wärmeverträge für 32 Gebäude abgeschlossen werden. Damit waren die Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
+Im ersten Quartal 2025 konnten 27 Wärmeverträge für insgesamt 32 Gebäude abgeschlossen werden. Damit waren die wesentlichen Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
+
+!!! note "Hinweis"
+    Im Zuge der Bauphase im Sommer 2026 konnten zwei weitere Anschlussnehmer gewonnen werden.  
+    Damit erhöhte sich die Zahl der Anschlussnehmer auf 29 für insgesamt 34 Gebäude.
 
 ### Planung
 
@@ -85,7 +91,7 @@ Die Antragstellung erfolgte mit Unterstützung der Firma Enerpipe.
 
 Nach Einreichung des Antrags verlief das Verfahren zunächst über längere Zeit ohne weiteren Zwischenstand.
 
-Erst in den letzten Monaten kam es zu Rückfragen sowie notwendigen Anpassungen der Planung aufgrund zwischenzeitlich geänderter Förderrichtlinien, bevor am 22. April 2026 der Zuwendungsbescheid erteilt wurde.
+Erst in den letzten Monaten kam es zu Rückfragen sowie notwendigen Anpassungen der Planung aufgrund zwischenzeitlich geänderter Förderrichtlinien, bevor am 22. April 2026 der Zuwendungsbescheid erteilt werden konnte.
 
 ### Startschuss
 
