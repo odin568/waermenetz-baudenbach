@@ -13,3 +13,7 @@ hide:
 ## Zeitungsbericht FLZ 08.08.2026
 
 ![Zeitungsbericht](assets/zeitungsbericht.png){ loading=lazy width=400px data-title="Zeitungsbericht FLZ 08.08.2026" }
+
+## Projektbericht der Firma Enerpipe 
+
+:material-link: [Gemeinsam für die Wärme der Zukunft: Baudenbach setzt auf genossenschaftliche Nahwärme](https://www.enerpipe.de/projekte/projekt/gemeinsam-fuer-die-waerme-der-zukunft-baudenbach-setzt-auf-genossenschaftliche-nahwaerme){ :target="_blank" }
