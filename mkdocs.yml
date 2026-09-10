@@ -18,11 +18,10 @@ markdown_extensions:
 
 nav:
   - Startseite: index.md
-  - Geschichte:
-      - Vorbereitung: Geschichte/Vorbereitung.md
-      - Bauphase: Geschichte/Bauphase.md
-      - Inbetriebnahme: Geschichte/Inbetriebnahme.md
-      - Erweiterung: Geschichte/Erweiterung.md
-  - Betrieb:
-      - Kennzahlen: Betrieb/Kennzahlen.md
+  - Projekt:
+      - Vorbereitung: Projekt/Vorbereitung.md
+      - Bauphase: Projekt/Bauphase.md
+      - Inbetriebnahme: Projekt/Inbetriebnahme.md
+      - Erweiterung: Projekt/Erweiterung.md
+      - Kennzahlen: Projekt/Kennzahlen.md
   - Impressum: Impressum.md
