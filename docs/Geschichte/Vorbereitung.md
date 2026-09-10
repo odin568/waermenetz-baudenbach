@@ -20,7 +20,7 @@ Im Laufe des Jahres 2024 fanden mehrere Informationsveranstaltungen statt. Ziel 
 
 Parallel dazu erwarb die Gemeinde Baudenbach ein geeignetes Grundstück, das künftig an den Wärmenetzbetreiber verpachtet werden soll.
 
-In rechtlichen und steuerlichen Fragen werden wir von der BERATA Steuerkanzlei aus Bad Windsheim beraten und unterstützt.
+In rechtlichen und steuerlichen Fragen wird das Projekt von der BERATA Steuerkanzlei aus Bad Windsheim beraten und unterstützt.
 
 ### Gründung der Kapitalgesellschaft
 
@@ -38,7 +38,7 @@ Zu Geschäftsführern wurden bestellt:
 
 Alle drei Geschäftsführer sind gleichberechtigt und einzelvertretungsberechtigt.
 
-Die Stammeinlage der Verwaltungs UG wird vollständig von der später gegründeten Personengesellschaft gehalten.
+Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Personengesellschaft gehalten.
 
 ### Gründung der Personengesellschaft
 
@@ -50,7 +50,7 @@ gegründet.
 
 Als Komplementärin fungiert die zuvor gegründete Verwaltungs UG.
 
-Als Kommanditisten beteiligen sich 13 Anschlussnehmer mit jeweils einem Kommanditanteil in Höhe von 100 € sowie die Gemeinde Baudenbach mit sechs Kommanditanteilen.
+Als Kommanditisten beteiligen sich 13 Anschlussnehmer mit jeweils einem Kommanditanteil in Höhe von 100 €. Die Gemeinde Baudenbach hält sechs Kommanditanteile – jeweils einen für die sechs kommunalen Gebäude, die an das Wärmenetz angeschlossen werden.
 
 Damit ergeben sich 14 Kommanditisten mit insgesamt 19 Anteilen.
 
@@ -89,9 +89,11 @@ Die Antragstellung erfolgte mit Unterstützung der Firma Enerpipe.
 
 ### Zuwendungsbescheid
 
-Nach Einreichung des Antrags verlief das Verfahren zunächst über längere Zeit ohne weiteren Zwischenstand.
+Nach Einreichung des Antrags verlief das Verfahren zunächst über längere Zeit ohne weitere Rückmeldung.
 
-Erst in den letzten Monaten kam es zu Rückfragen sowie notwendigen Anpassungen der Planung aufgrund zwischenzeitlich geänderter Förderrichtlinien, bevor am 22. April 2026 der Zuwendungsbescheid erteilt werden konnte.
+In den letzten Monaten vor der Bewilligung kam es zu Rückfragen und daraus resultierenden notwendigen Anpassungen der Planung aufgrund zwischenzeitlich geänderter Förderrichtlinien.
+
+Am 22. April 2026 konnte schließlich der Zuwendungsbescheid erteilt werden.
 
 ### Startschuss
 
