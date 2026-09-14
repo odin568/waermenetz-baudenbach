@@ -52,9 +52,15 @@ Auch im Juli gingen die Bauarbeiten nahtlos weiter. Das zukünftige Heizhaus nah
 
 Bereits Ende Juli konnten die Betonarbeiten am Heizhaus erfolgreich abgeschlossen werden.
 
+### Zimmererarbeiten Heizhaus
+
+Mitte September wurde mit den Zimmererarbeiten am Dach des Heizhauses begonnen. Ein zuvor angelieferter fast 19m langer Dachbinder wurde hierfür auf dem Rohbau montiert.
+
+Das Dach des Heizhauses wird mit Sandwichplatten umgesetzt.
+
 ### Rohbau Lagerhalle
 
-Direkt im Anschluss ging es mit dem nächsten Bauabschnitt weiter: Ende Juli begannen die Arbeiten an der an das Heizhaus angeschlossenen Lagerhalle.
+Ende Juli begannen die Arbeiten an der an das Heizhaus angeschlossenen Lagerhalle.
 
 ![Image22](assets/22_halle_beton_1.jpg){ width="300" loading=lazy }
 ![Image23](assets/23_halle_beton_2.jpg){ width="300" loading=lazy }
