@@ -58,6 +58,9 @@ Mitte September wurde mit den Zimmererarbeiten am Dach des Heizhauses begonnen. 
 
 Das Dach des Heizhauses wird mit Sandwichplatten umgesetzt.
 
+![Image26](assets/26_heizhaus_dach_01.jpg){ width="300" loading=lazy }
+![Image27](assets/27_heizhaus_dach_02.jpg){ width="300" loading=lazy }
+
 ### Rohbau Lagerhalle
 
 Ende Juli begannen die Arbeiten an der an das Heizhaus angeschlossenen Lagerhalle.
