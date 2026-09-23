@@ -103,7 +103,7 @@ Mit der Gesellschafterversammlung am 12. Mai 2026 wurde der Startschuss für die
 
 Wolfgang Schmidt hat das Projekt als Erster Bürgermeister initiiert und die Planungen von der ersten Idee bis zur Umsetzungsreife maßgeblich vorangetrieben.
 
-Seit Mai 2026 ist Johannes Hudezeck Erster Bürgermeister der Gemeinde Baudenbach und übernimmt als Geschäftsführer die Nachfolge von Wolfgang Schmidt.
+Seit Mai 2026 ist Johannes Hudezeck Erster Bürgermeister der Gemeinde Baudenbach und übernimmt nach Gesellschaftsbeschluss als Geschäftsführer die Nachfolge von Wolfgang Schmidt.
 
 Die Geschäftsführer Reinhold Helm und Markus Zellner bleiben unverändert im Amt. Alle Geschäftsführer sind weiterhin gleichberechtigt und jeweils einzelvertretungsberechtigt.
 
