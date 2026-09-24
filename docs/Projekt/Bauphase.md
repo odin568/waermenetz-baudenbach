@@ -56,10 +56,23 @@ Bereits Ende Juli konnten die Betonarbeiten am Heizhaus erfolgreich abgeschlosse
 
 Mitte September wurde mit den Zimmererarbeiten am Dach des Heizhauses begonnen. Ein zuvor angelieferter fast 19m langer Dachbinder wurde hierfür auf dem Rohbau montiert.
 
-Das Dach des Heizhauses wird mit Sandwichplatten umgesetzt.
+Das Dach des Heizhauses wurde mit Sandwichplatten umgesetzt.
 
 ![Image26](assets/26_heizhaus_dach_01.jpg){ width="300" loading=lazy }
 ![Image27](assets/27_heizhaus_dach_02.jpg){ width="300" loading=lazy }
+
+### Installation Heizkessel
+
+Ende September wurden von der Firma Heizomat zwei Heizkessel geliefert und anschließend mit sämtlicher Technik montiert.
+
+![Image28](assets/28_heizkessel_01.jpeg){ width="300" loading=lazy }
+![Image29](assets/29_heizkessel_02.jpeg){ width="300" loading=lazy }
+
+![Image30](assets/30_heizkessel_03.jpg){ width="300" loading=lazy }
+![Image31](assets/31_heizkessel_04.jpg){ width="300" loading=lazy }
+
+
+## Bau der Lagerhalle
 
 ### Rohbau Lagerhalle
 
