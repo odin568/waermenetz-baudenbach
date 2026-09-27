@@ -71,7 +71,7 @@ Im ersten Quartal 2025 konnten 27 Wärmeverträge für insgesamt 32 Gebäude abg
 
 !!! note "Hinweis"
     Im Zuge der Bauphase im Sommer 2026 konnten zwei weitere Anschlussnehmer gewonnen werden.  
-    Damit erhöhte sich die Zahl der Anschlussnehmer auf 29 für insgesamt 34 Gebäude.
+    Damit erhöhte sich die Zahl der Anschlussnehmer auf 30 für insgesamt 35 Gebäude.
 
 ### Planung
 
