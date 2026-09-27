@@ -48,7 +48,7 @@ Am 12. Dezember 2024 wurde die Personengesellschaft
 
 gegründet.
 
-Als Komplementärin fungiert die zuvor gegründete Verwaltungs UG.
+Als Komplementär fungiert die zuvor gegründete Verwaltungs-UG.
 
 Als Kommanditisten beteiligen sich 13 Anschlussnehmer mit jeweils einem Kommanditanteil in Höhe von 100 €. Die Gemeinde Baudenbach hält sechs Kommanditanteile – jeweils einen für die sechs kommunalen Gebäude, die an das Wärmenetz angeschlossen werden.
 
