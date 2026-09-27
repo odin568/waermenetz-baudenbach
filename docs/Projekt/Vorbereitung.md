@@ -28,7 +28,7 @@ Am 26. September 2024 wurde die Kapitalgesellschaft
 
 `Wärmenetz Baudenbach Verwaltungs UG (haftungsbeschränkt)`
 
-mit einer Stammeinlage von 2.000 € gegründet.
+mit einem Stammkapital von 2.000 € gegründet.
 
 Zu Geschäftsführern wurden bestellt:
 
@@ -38,7 +38,7 @@ Zu Geschäftsführern wurden bestellt:
 
 Alle drei Geschäftsführer sind gleichberechtigt und einzelvertretungsberechtigt.
 
-Die Geschäftsanteile der Verwaltungs UG werden vollständig von der später gegründeten Personengesellschaft gehalten.
+Die Geschäftsanteile der Verwaltungs-UG werden vollständig von der später gegründeten Personengesellschaft gehalten.
 
 ### Gründung der Personengesellschaft
 
