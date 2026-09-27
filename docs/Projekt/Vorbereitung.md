@@ -65,9 +65,9 @@ Gemäß der Satzung wurde im Dezember 2024 ein Beirat bestellt. Dem Beirat gehö
 * Tobi Köcklar
 * Matthias Körner
 
-### Abschluss der Wärmeverträge
+### Abschluss der Wärmelieferverträge
 
-Im ersten Quartal 2025 konnten 27 Wärmeverträge für insgesamt 32 Gebäude abgeschlossen werden. Damit waren die wesentlichen Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
+Im ersten Quartal 2025 konnten 27 Wärmelieferverträge für insgesamt 32 Gebäude abgeschlossen werden. Damit waren die wesentlichen Voraussetzungen für die Beantragung von Fördermitteln geschaffen.
 
 !!! note "Hinweis"
     Im Zuge der Bauphase im Sommer 2026 konnten zwei weitere Anschlussnehmer gewonnen werden.  
