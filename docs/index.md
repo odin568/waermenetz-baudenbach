@@ -8,7 +8,8 @@ hide:
 
     Am 23.09.2026 fand in der Gemeindehalle Baudenbach ein Informationsveranstaltung für alle interessierten Bürger von Baudenbach statt.  
     Bis zum 02.10.2026 können ausgefüllte Erfassungsbögen im Rathaus abgegeben werden.  
-    :fontawesome-solid-file-pdf: [Erfassungsbogen](Projekt/assets/Erhebungsbogen.pdf)
+    :fontawesome-solid-file-pdf: [Erfassungsbogen](Projekt/assets/Erhebungsbogen.pdf)  
+    Weitere Informationen erhalten sie [hier](Projekt/Erweiterung.md).
 
 ![Logo](assets/waermenetz_logo_text_transparent.png){ width="400" loading=lazy .off-glb }
 
