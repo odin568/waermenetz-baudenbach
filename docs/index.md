@@ -7,7 +7,7 @@ hide:
 !!! info "Aktueller Hinweis"
 
     Am 23.09.2026 fand in der Gemeindehalle Baudenbach ein Informationsveranstaltung für alle interessierten Bürger von Baudenbach statt.  
-    Bis zum 02.10.2026 können ausgefüllte Erfassungsbögen im Rathaus abgegeben werden.  
+    Bis zum 07.10.2026 können ausgefüllte Erfassungsbögen im Rathaus abgegeben werden.  
     :fontawesome-solid-file-pdf: [Erfassungsbogen](Projekt/assets/Erhebungsbogen.pdf)  
     Weitere Informationen erhalten sie [hier](Projekt/Erweiterung.md).
 
