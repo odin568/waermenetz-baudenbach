@@ -71,6 +71,7 @@ Ende September wurden von der Firma Heizomat zwei Heizkessel geliefert und ansch
 ![Image30](assets/30_heizkessel_03.jpg){ width="300" loading=lazy }
 ![Image31](assets/31_heizkessel_04.jpg){ width="300" loading=lazy }
 
+Im Anschluss begann im Oktober der Ausbau der gesamten Heiztechnik.
 
 ## Bau der Lagerhalle
 
@@ -104,6 +105,13 @@ Im weiteren Verlauf konnten bis Ende Juli vier weitere Spülbohrungen erfolgreic
 Anschließend werden die einzelnen Leitungsabschnitte entsprechend dem Trassenplan nach und nach miteinander verbunden.
 
 Mitte August konnten alle 14 geplanten Spülbohrungen erfolgreich abgeschlossen werden.
+
+### Offene Bauweise
+
+Neben den Spülbohrungen werden auch Leitungen in offener Bauweise verlegt. Diese laufen sukzessive seit September. Ebenfalls werden dabei die ersten Hausanschlüsse hergestellt.
+
+![Image32](assets/32_baggerarbeiten_01.jpg){ width="300" loading=lazy }
+![Image33](assets/33_baggerarbeiten_02.jpg){ width="300" loading=lazy }
 
 ---
 
