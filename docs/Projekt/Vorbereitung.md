@@ -71,7 +71,7 @@ Im ersten Quartal 2025 konnten 27 Wärmelieferverträge für insgesamt 32 Gebäu
 
 !!! note "Hinweis"
     Im Zuge der Bauphase (2026) konnten weitere Anschlussnehmer gewonnen werden.  
-    Dadurch erhöhte sich die Zahl der Anschlussnehmer auf 30 für insgesamt 35 Gebäude in der ersten Ausbaustufe.
+    Dadurch erhöhte sich die Zahl der Anschlussnehmer auf 31 für insgesamt 35 Gebäude in der ersten Ausbaustufe.
 
 ### Planung
 
