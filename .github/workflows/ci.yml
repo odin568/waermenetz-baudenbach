@@ -1,5 +1,8 @@
 name: ci
 
+env:
+  GIT_DEPTH: "0"
+
 on:
   push:
     branches:
