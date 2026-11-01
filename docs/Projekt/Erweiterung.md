@@ -18,3 +18,11 @@ Dieser kann künftig genutzt werden, um einen Teil der sogenannten „Vogelsiedl
 Diese Pläne wurden bei einer offenen Bürgerversammlung am 23.09.2026 vorgestellt. Gleichzeitig wurden die interessierten Bürgerinnen und Bürger gebeten, die :fontawesome-solid-file-pdf: [Erfassungsbögen](assets/Erhebungsbogen.pdf) bis zum **07.10.2026** abzugeben.
 
 Auf Grundlage der eingegangenen Erfassungsbögen können anschließend ein konkreter Netzentwurf erstellt und die zu erwartenden Kosten kalkuliert werden.
+
+## Technische Machbarkeit
+
+Die Firma Enerpipe prüfte die abgegebenen Erfassungsbögen und erstelle im Oktober einen Leitungsplan. Hier lag der Fokus auf der technischen Machbarkeit der Erschließung - nicht auf der Wirtschaftlichkeit des Anschlusses.
+
+Daraufhin mussten leider einzelne Absagen verfasst werden.
+
+Alle weiteren Interessenten werden zu einer weiteren Versammlung am Dienstag, den 10.11.2026 in den Rathaussaal eingeladen.
