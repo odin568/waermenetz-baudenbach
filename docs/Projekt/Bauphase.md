@@ -73,6 +73,14 @@ Ende September wurden von der Firma Heizomat zwei Heizkessel geliefert und ansch
 
 Im Anschluss begann im Oktober der Ausbau der gesamten Heiztechnik.
 
+### Pufferspeicher
+
+Mitte Oktober wurde der 50 m³ umfassende Pufferspeicher angeliefert und mit zwei Kränen an seine Position gehoben.
+
+![Image34](assets/34_pufferspeicher_01.jpg){ width="300" loading=lazy }
+![Image35](assets/35_pufferspeicher_02.jpg){ width="300" loading=lazy }
+
+
 ## Bau der Lagerhalle
 
 ### Rohbau Lagerhalle
@@ -86,6 +94,10 @@ Mitte August konnte auch hier bereits ein Großteil der Betonarbeiten abgeschlos
 
 ![Image24](assets/24_halle_beton_3.jpg){ width="300" loading=lazy }
 ![Image25](assets/25_halle_beton_4.jpg){ width="300" loading=lazy }
+
+### Zimmererarbeiten Lagerhalle
+
+Anfang November beginnen die Zimmererarbeiten an der Lagerhalle, Informationen folgen.
 
 ## Leitungsbau
 
