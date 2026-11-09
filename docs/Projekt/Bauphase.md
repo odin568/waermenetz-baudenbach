@@ -97,7 +97,12 @@ Mitte August konnte auch hier bereits ein Großteil der Betonarbeiten abgeschlos
 
 ### Zimmererarbeiten Lagerhalle
 
-Anfang November beginnen die Zimmererarbeiten an der Lagerhalle, Informationen folgen.
+Anfang November begannen die Zimmererarbeiten an der Lagerhalle. Die bereits vorgefertigten Teile wurden durch den Bauhof mit Lerchenholzbrettern vertäfelt.
+
+An nur einem Tag konnten die Wände und Träger aufgestellt werden, so dass einem Richtfest nichts mehr im Wege steht.
+
+![Image36](assets/36_zimmerer_halle_01.jpg){ width="300" loading=lazy }
+![Image37](assets/37_zimmerer_halle_02.jpg){ width="300" loading=lazy }
 
 ## Leitungsbau
 
