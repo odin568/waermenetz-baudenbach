@@ -7,8 +7,9 @@ hide:
 !!! info "Aktueller Hinweis"
 
     Vielen Dank für die vielen Rückmeldungen für die geplante Erweiterung!  
-    Alle technisch möglichen Anwesen haben eine persönliche schriftliche Einladung zu einer weiteren Versammlung erhalten.  
+    In den nächsten Tagen bekommen alle Interessenten weitere Informationen per Mail.  
     Weitere Informationen erhalten sie [hier](Projekt/Erweiterung.md).
+
 ![Logo](assets/waermenetz_logo_text_transparent.png){ width="400" loading=lazy .off-glb }
 
 ## Baudenbach denkt heute schon an morgen!

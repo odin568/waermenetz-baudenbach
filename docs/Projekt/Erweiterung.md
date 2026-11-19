@@ -26,3 +26,9 @@ Die Firma Enerpipe prüfte die abgegebenen Erfassungsbögen und erstelle im Okto
 Daraufhin mussten leider einzelne Absagen verfasst werden.
 
 Alle weiteren Interessenten werden zu einer weiteren Versammlung am Dienstag, den 10.11.2026 in den Rathaussaal eingeladen.
+
+Ziel der Versammlung war es, dass offene Fragen geklärt werden konnten, so dass jeder Haushalt für sich auf Basis der vorgestellten Informationen entscheiden konnte, ob ein Anschluss in Frage kommt oder nicht.
+
+## Wirtschaftlichkeitsanalyse
+
+Auf Basis der Rückmeldungen wird nun die technische Planung verfeinert und eine wirtschaftliche Betrachtung der Anschlüsse vorgenommen.
