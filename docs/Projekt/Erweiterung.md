@@ -5,30 +5,30 @@
 
 ## Erweiterung des Versorgungsnetzes
 
-Ende Juli wurden die Anwohnerinnen und Anwohner der Waldstraße sowie der nördlich anschließenden Straßen bis zur Roßbacher Straße informiert und ein entsprechender :fontawesome-solid-file-pdf: [Erfassungsbogen](assets/Erhebungsbogen.pdf) verteilt.
+Ende Juli wurden die Anwohnerinnen und Anwohner der Waldstraße sowie der nördlich angrenzenden Straßen bis zur Roßbacher Straße über die Möglichkeit eines Nahwärmeanschlusses informiert. Hierzu wurde ein entsprechender Erfassungsbogen verteilt.
 
-Aufgrund der großen Resonanz wurden Überlegungen angestellt, wie weitere Bereiche von Baudenbach zukünftig mit Nahwärme versorgt werden können.
+Aufgrund der großen Resonanz wurden Überlegungen angestellt, wie zukünftig weitere Bereiche von Baudenbach mit Nahwärme versorgt werden können.
 
-So wurde kurzfristig auf einen größeren Heizkessel umgestellt und ein weiterer Netzerweiterungspunkt an der Kreisstraße auf Höhe der Tierarztpraxis vorgesehen.
+So wurde kurzfristig auf einen größeren Heizkessel umgestellt und ein zusätzlicher Netzerweiterungspunkt an der Kreisstraße auf Höhe der Tierarztpraxis vorgesehen.
 
-Über diesen Netzerweiterungspunkt kann zukünftig die sogenannte „Baumsiedlung“ bis zur Roßbacher Straße versorgt werden. Dadurch wird der Netzerweiterungspunkt in der Gartenstraße frei.
+Von diesem Netzerweiterungspunkt aus kann künftig die sogenannte „Baumsiedlung“ bis zur Roßbacher Straße versorgt werden. Dadurch wird der bisher vorgesehene Netzerweiterungspunkt in der Gartenstraße frei.
 
-Dieser kann künftig genutzt werden, um einen Teil der sogenannten „Vogelsiedlung“ über die Veit-vom-Berg-Straße zu versorgen.
+Dieser kann künftig genutzt werden, um einen Teil der sogenannten „Vogelsiedlung“ über die Veit-vom-Berg-Straße mit Nahwärme zu versorgen.
 
-Diese Pläne wurden bei einer offenen Bürgerversammlung am 23.09.2026 vorgestellt. Gleichzeitig wurden die interessierten Bürgerinnen und Bürger gebeten, die :fontawesome-solid-file-pdf: [Erfassungsbögen](assets/Erhebungsbogen.pdf) bis zum **07.10.2026** abzugeben.
+Diese Überlegungen wurden bei einer offenen Bürgerversammlung am 23.09.2026 vorgestellt. Gleichzeitig wurden die interessierten Bürgerinnen und Bürger gebeten, die :fontawesome-solid-file-pdf: [Erfassungsbögen](../assets/Erhebungsbogen.pdf) bis zum **07.10.2026** einzureichen.
 
-Auf Grundlage der eingegangenen Erfassungsbögen können anschließend ein konkreter Netzentwurf erstellt und die zu erwartenden Kosten kalkuliert werden.
+Auf Grundlage der eingegangenen Erfassungsbögen kann anschließend ein konkreter Netzentwurf erstellt und die zu erwartenden Kosten können kalkuliert werden.
 
 ## Technische Machbarkeit
 
-Die Firma Enerpipe prüfte die abgegebenen Erfassungsbögen und erstelle im Oktober einen Leitungsplan. Hier lag der Fokus auf der technischen Machbarkeit der Erschließung - nicht auf der Wirtschaftlichkeit des Anschlusses.
+Die Firma Enerpipe wertete die eingereichten Erfassungsbögen aus und erstellte im Oktober einen Leitungsplan. Im Mittelpunkt stand dabei die technische Machbarkeit der Erschließung – nicht die Wirtschaftlichkeit eines einzelnen Anschlusses.
 
-Daraufhin mussten leider einzelne Absagen verfasst werden.
+Auf Grundlage dieser Prüfung mussten leider einzelnen Interessenten Absagen erteilt werden.
 
-Alle weiteren Interessenten werden zu einer weiteren Versammlung am Dienstag, den 10.11.2026 in den Rathaussaal eingeladen.
+Alle übrigen Interessenten wurden zu einer weiteren Versammlung am Dienstag, den 10.11.2026, in den Rathaussaal eingeladen.
 
-Ziel der Versammlung war es, dass offene Fragen geklärt werden konnten, so dass jeder Haushalt für sich auf Basis der vorgestellten Informationen entscheiden konnte, ob ein Anschluss in Frage kommt oder nicht.
+Ziel der Versammlung war es, offene Fragen zu klären und allen Haushalten eine fundierte Entscheidungsgrundlage zu bieten. So konnte jeder Haushalt anhand der vorgestellten Informationen selbst entscheiden, ob ein Nahwärmeanschluss infrage kommt.
 
 ## Wirtschaftlichkeitsanalyse
 
-Auf Basis der Rückmeldungen wird nun die technische Planung verfeinert und eine wirtschaftliche Betrachtung der Anschlüsse vorgenommen.
+Auf Basis der Rückmeldungen wird nun die technische Planung weiter konkretisiert. Anschließend erfolgt eine wirtschaftliche Betrachtung der einzelnen Anschlüsse, um die zu erwartenden Kosten zu ermitteln.
