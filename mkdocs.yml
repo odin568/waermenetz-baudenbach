@@ -18,6 +18,13 @@ markdown_extensions:
 
 plugins:
   - privacy
+  - git-revision-date-localized:
+      type: datetime
+      fallback_to_build_date: true
+      exclude:
+        - "index.md"
+        - "Impressum.md"
+
 
 nav:
   - Startseite: index.md
