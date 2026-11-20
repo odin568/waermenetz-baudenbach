@@ -24,7 +24,7 @@ hide:
 
 ### Projektbericht Firma Enerpipe
 
-:material-link: [Gemeinsam für die Wärme der Zukunft: Baudenbach setzt auf genossenschaftliche Nahwärme](https://www.enerpipe.de/projekte/projekt/gemeinsam-fuer-die-waerme-der-zukunft-baudenbach-setzt-auf-genossenschaftliche-nahwaerme){ :target="_blank" }  
+:material-link: [Gemeinsam für die Wärme der Zukunft: Baudenbach setzt auf genossenschaftliche Nahwärme](https://www.enerpipe.de/projekte/projekt/gemeinsam-fuer-die-waerme-der-zukunft-baudenbach-setzt-auf-genossenschaftliche-nahwaerme){ target="_blank" }  
 *Stand: August 2026*
 
 ### Zeitungsbericht FLZ 19.11.2026
