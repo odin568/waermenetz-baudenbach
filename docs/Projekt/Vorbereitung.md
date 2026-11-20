@@ -81,7 +81,7 @@ Auf dieser Grundlage wurden Angebote verschiedener Fachfirmen für die einzelnen
 
 ![Plan](assets/00_plan.png){ width="600" loading=lazy }
 
-### Antragstellung
+### Förderantragstellung
 
 Am 21. Mai 2025 wurde bei der BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) ein Förderantrag im Rahmen der Bundesförderung für effiziente Wärmenetze eingereicht.
 
